@@ -32,15 +32,12 @@ Welcome to **Prompt Smith**! This app is your personal AI-powered prompt lab for
 ## ⚡ Quickstart
 
 1. **Clone this repo**
-2. **Add your OpenAI API key** to `.env`:
-   ```
-   OPENAI_API_KEY=sk-...
-   ```
-3. **Install requirements:**
+
+2. **Install requirements:**
    ```
    pip install -r requirements.txt
    ```
-4. **Run the app:**
+3. **Run the app:**
    ```
    streamlit run main.py
    ```
@@ -55,4 +52,4 @@ Welcome to **Prompt Smith**! This app is your personal AI-powered prompt lab for
 
 ---
 
-Made with ❤️, LLMs, and a sprinkle of emoji magic! 🧠✨🚀
+Made with ❤️ by Soumya Gupta, LLMs, and a sprinkle of magic! 🧠✨🚀
